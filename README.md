@@ -1,2 +1,3 @@
 pertanyaan untuk ka elisa
 dijawab yaa ka...
+maaf yaa kaa masih jelek bgt
