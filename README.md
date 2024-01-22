@@ -146,7 +146,7 @@
 </head>
 <body>
     <div class="container" id="container">
-        <h1 class="question" id="firstQuestion">Will you go out with me, Ka Elisa?</h1>
+        <h1 class="question" id="firstQuestion">Will you go out with me,Elisa?</h1>
         <div class="options">
             <button class="btn yes" onclick="showNextQuestion()">
                 mauuu bgtttttttt donggggggggg
